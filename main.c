@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <time.h>
-
+// Ask User For Which game they wanna play
 void resetBoard();
 void printBoard();
 int checkFreeSpaces();
